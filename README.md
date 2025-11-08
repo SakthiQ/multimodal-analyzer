@@ -71,7 +71,7 @@ multimodal_extension/
 Open the popup → Click “Analyze Current Page”
 
 
-###🧠 ***Models Used***
+🧠 ***Models Used***
 Model	Purpose
 BERT	Text Embedding
 DistilBERT	Sentiment Detection
@@ -79,7 +79,7 @@ ResNet50	Image Embedding
 TF-IDF	Keyword Extraction
 
 
-###🛠 ***Libraries Used***
+🛠 ***Libraries Used***
 flask
 torch
 torchvision
@@ -93,7 +93,7 @@ beautifulsoup4
 requests
 numpy
 
-###👨‍💻 ***Authors***
+👨‍💻 ***Authors***
 
 👤 Balanagu Krishna Kiriti
 👤 Kethamreddy Vishnu Vardhan Reddy
@@ -101,7 +101,7 @@ numpy
 👤 Pratyush Kumar V
 👤 Shakti Narayan
 
-###🌟 ***Future Enhancements***
+🌟 ***Future Enhancements***
 
 Real-time browser sentiment overlay
 
