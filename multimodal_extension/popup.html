@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Multimodal Analyzer</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 350px;
+        padding: 10px;
+        background-color: #f9fafb;
+      }
+      .header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 10px;
+      }
+      .header img {
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+      }
+      .header h2 {
+        margin: 0;
+        font-size: 18px;
+      }
+      button {
+        background-color: #0078d7;
+        color: white;
+        border: none;
+        padding: 8px 14px;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #005fa3;
+      }
+      #output {
+        margin-top: 12px;
+        font-size: 13px;
+        white-space: pre-wrap;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <!--<img src="icon.png" alt="Multimodal Icon" />-->
+      <h2>🌐 Multimodal Analyzer</h2>
+    </div>
+
+    <button id="analyzeBtn">Analyze Current Page</button>
+    <div id="output"></div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
