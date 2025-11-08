@@ -36,18 +36,18 @@ The backend runs locally on **Flask** and serves results instantly to your Chrom
 git clone https://github.com/yourusername/multimodal-analyzer.git
 cd multimodal-analyzer
 ```
-### 2️⃣** Setup Environment**
+### 2️⃣ ** Setup Environment**
 ```bash
 python -m venv venv
 .\venv\Scripts\activate     # On Windows
 # or
 source venv/bin/activate    # On Linux/Mac
 ```
-###3️⃣ **Install Dependencies**
+### 3️⃣ **Install Dependencies**
 ```bash
 pip install flask torch torchvision torchaudio tensorflow transformers pillow scikit-learn cloudscr
 ```
-###4️⃣ ***Run the Flask API***
+### 4️⃣ **Run the Flask API**
 ```bash
 python api_server.py
 ```
