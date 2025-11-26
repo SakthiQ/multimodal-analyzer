@@ -99,7 +99,7 @@ numpy
 👤 Koteru Tarun
 👤 Pratyush Kumar V
 👤 Balanagu Krishna Kiriti
-👤 Shakti Narayan
+👤 Sakthi Narayan
 
 🌟 ***Future Enhancements***
 
